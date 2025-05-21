@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I'm currently pursuing Master of Visual Computing in SFU. 
+🌱 I'm currently pursuing a Master of Visual Computing in SFU. 
 
 📚 Studying Deep learning, Computer Vision, Image Segmentation and 3D Reconstruction.
 
