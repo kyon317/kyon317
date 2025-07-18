@@ -1,13 +1,13 @@
 ## Hi there 👋
 🌱 I'm currently pursuing a Master of Visual Computing in SFU. 
 
-📚 Studying Deep learning, Computer Vision, Image Segmentation and 3D Reconstruction.
+📚 Computer Graphics, Computer Vision, Deep learning.
 
 ✨ Love coding and algorithm.
 
 🔥 Python, Java / Kotlin, C++, React.
 
-🛠️ Software Developer.
+🛠️ Software Developer, Game Dev.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CaptKyon?theme=dark&font=Gugi&ext=heatmap)
 <!--
