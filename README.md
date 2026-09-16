@@ -1,13 +1,8 @@
-## Hi there 👋
-🌱 I'm currently pursuing a Master of Visual Computing in SFU. 
+PhD student at GruVi lab, SFU, Canada. 
 
-📚 Computer Graphics, Computer Vision, Deep learning.
+Main interests in Visual Computing & Robotics.
 
-✨ Love coding and algorithm.
-
-🔥 Python, Java / Kotlin, C++, React.
-
-🛠️ Software Developer, Game Dev.
+Python, Java / Kotlin, C++, React.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CaptKyon?theme=dark&font=Gugi&ext=heatmap)
 <!--
