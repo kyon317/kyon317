@@ -1,10 +1,11 @@
-PhD student at GruVi lab, SFU, Canada. 
+PhD student at [GruVi lab](https://gruvi.cs.sfu.ca/), [SFU](https://www.sfu.ca/), Canada. 
 
 Main interests in Visual Computing & Robotics.
 
 Python, Java / Kotlin, C++, React.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CaptKyon?theme=dark&font=Gugi&ext=heatmap)
+
 <!--
 **kyon317/kyon317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
